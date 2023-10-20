@@ -1,6 +1,7 @@
 # Embedded-Systems-Projects
 
-**Standardized procedure for developing projects for embedded systems**
+## ** Standardized procedure for developing projects for embedded systems **
+
 1.Make a Block Diagram of whole system.
 
 2.Make a Table of Inputs and Outputs.
@@ -13,7 +14,8 @@
 
 **Softwares**:-Arduino IDE,Tinker Cad,Proteus Software.
 
-**Embedded Projects List**
+## **Embedded Projects List**
+
 1.Password Protected Lock System Using 10 push Buttons As Inputs and Red&Green Leds,lcd(16*2) Display And Buzzer.
 
 2.Arduino Based Calculator using 44 Matrics Keyboard As input and 162 LCD Display As Output.
