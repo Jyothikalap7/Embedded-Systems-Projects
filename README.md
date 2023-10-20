@@ -1,6 +1,6 @@
 # Embedded-Systems-Projects
 
-## ** Standardized procedure for developing projects for embedded systems **
+## **Standardized procedure for developing projects for embedded systems**
 
 1.Make a Block Diagram of whole system.
 
